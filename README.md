@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thièrry Ntoh
-- 👀 I’m interested in front end web and app design and development.
-- 🌱 I’m currently learning Flutter and Angular.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in design and dev stuff.
+- 🌱 I’m currently trying this and that, testing the waters.
+- 💞️ I’m looking to collaborate on Figma plugin projects atm.
 - 📫 How to reach me thierryntoh24@gmail.com
 
 <!---
